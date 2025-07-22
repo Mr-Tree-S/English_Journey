@@ -1,5 +1,11 @@
 # Comprehensible Input
 
+```bash
+https://www.bilibili.com/video/BV1aD4y127GE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=898f56f41de215bd5a1efa81f4edebe6
+
+https://www.youtube.com/watch?v=3vi4NZ5WMEI&t=1716s
+```
+
 ## Book
 
 ### Lexile Measure
