@@ -1,5 +1,7 @@
 # Comprehensible Input
 
+Stephen Krashen
+
 ```bash
 https://www.bilibili.com/video/BV1aD4y127GE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=898f56f41de215bd5a1efa81f4edebe6
 
@@ -24,7 +26,7 @@ https://hub.lexile.com/find-a-book/
 
 ## Dialogue
 
-### EnglishPod
+### EnglishClass101
 
 ```bash
 https://www.englishclass101.com/dashboard
@@ -41,7 +43,7 @@ https://www.youtube.com/watch?v=gjqlpQ1xpdQ&list=PLjCtTyt_avtEoir_znj4VjTpTry9Ef
 ```
 
 ```bash
-https://www.englishclass101.com/dashboard
+https://www.lingq.com/en/
 ```
 
 ## Book
