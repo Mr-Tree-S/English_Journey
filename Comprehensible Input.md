@@ -34,19 +34,21 @@ https://www.englishclass101.com/dashboard
 
 It's really a great platform for learning English through dialogues.
 
-### Other Resources
+## Story
+
+### LingQ
+
+```bash
+https://www.lingq.com/en/
+```
+
+## Other Resources
 
 ```bash
 https://www.bilibili.com/video/BV1w7411g7jn/?spm_id_from=333.337.search-card.all.click&vd_source=898f56f41de215bd5a1efa81f4edebe6
 
 https://www.youtube.com/watch?v=gjqlpQ1xpdQ&list=PLjCtTyt_avtEoir_znj4VjTpTry9EfeNk
 ```
-
-```bash
-https://www.lingq.com/en/
-```
-
-## Book
 
 ### Book List
 
@@ -58,8 +60,6 @@ https://www.goodreads.com/list
 
 - Dr. Seuss
 - Magic Tree House
-
-## Story
 
 ### RAZ 英文分级阅读
 
