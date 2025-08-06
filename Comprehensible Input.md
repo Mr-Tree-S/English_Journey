@@ -24,16 +24,6 @@ Lexile Measure is a measure of the text complexity of a book, which is useful fo
 https://hub.lexile.com/find-a-book/
 ```
 
-## Dialogue
-
-### EnglishClass101
-
-```bash
-https://www.englishclass101.com/dashboard
-```
-
-It's really a great platform for learning English through dialogues.
-
 ## Story
 
 ### LingQ
