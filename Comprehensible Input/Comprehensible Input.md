@@ -1,5 +1,7 @@
 # Comprehensible Input
 
+It is a language acquisition theory developed by Stephen Krashen. It emphasizes the importance of understanding language input that is slightly above the current level of the learner, often referred to as "i+1". This approach suggests that learners acquire language more effectively when they are exposed to material that is understandable yet challenging.
+
 Stephen Krashen
 
 ```bash
@@ -9,12 +11,6 @@ https://www.youtube.com/watch?v=3vi4NZ5WMEI&t=1716s
 ```
 
 ## Test
-
-### Vocabulary Size Test
-
-```bash
-https://myvocabularysize.com/
-```
 
 ### Lexile Measure
 
