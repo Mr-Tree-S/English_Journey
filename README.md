@@ -76,7 +76,7 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |Task|Description|Date|
 |----|-----------|----|
 |Week 1|||
-|Vocabulary|Chapter 5(4/5, 5/5)|09/01|
+|Vocabulary|Chapter 5(5/5)|09/01|
 |Vocabulary + Reading|Chapter 1~5 + Exam analysis|09/02|
 |Vocabulary|Chapter 6|09/03|
 |Vocabulary + Reading|Chapter 7 + Exam analysis|09/04|
