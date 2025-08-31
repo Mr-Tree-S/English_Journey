@@ -10,6 +10,23 @@
 
 ## Resource
 
+### Online Test
+
+```bash
+# Vocabulary Size Test
+https://my.vocabularysize.com/
+```
+
+```bash
+# CEFR level test
+https://www.efset.org/zh/
+```
+
+```bash
+# IELTS Online Test
+https://ieltsonlinetests.com/
+```
+
 ### Vocabulary
 
 ```bash
@@ -75,23 +92,3 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |Vocabulary|Chapter 15|09/13|
 |Vocabulary|Chapter 16|09/14|
 |Week 3|||
-
-## Online Test
-
-### Vocabulary Size Test
-
-```bash
-https://my.vocabularysize.com/
-```
-
-### CEFR level test
-
-```bash
-https://www.efset.org/zh/
-```
-
-### IELTS Online Test
-
-```bash
-https://ieltsonlinetests.com/
-```
