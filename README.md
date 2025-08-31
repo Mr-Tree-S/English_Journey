@@ -68,8 +68,8 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |Vocabulary|Chapter 4|08/27|
 |Vocabulary|Chapter 5(1/5)|08/28|
 |Vocabulary|Chapter 5(2/5)|08/29|
-|Vocabulary, Reading|No study today, just stayed home and relaxed|08/30|
-|Vocabulary, Reading|Chapter 5(3/5)|08/31|
+|Vocabulary|No study today, just stayed home and relaxed|08/30|
+|Vocabulary|Chapter 5(3/5)|08/31|
 
 ### Sep
 
