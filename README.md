@@ -46,13 +46,13 @@ https://www.bilibili.com/video/BV1m5pGehEWY/?spm_id_from=333.788.videopod.sectio
 ### Speaking
 
 ```bash
+# BE
 # 全54节【实用商务英语口语】场景演绎-外贸和职场
 https://www.bilibili.com/video/BV1Bpr5YUE4f?spm_id_from=333.788.videopod.episodes&vd_source=898f56f41de215bd5a1efa81f4edebe6&p=11
 ```
 
 ```bash
-# 薛麦Max
-# 直接跟练！雅思口语 当季所有真题示范（含Part1·2·3）
+# 薛麦Max 直接跟练！雅思口语 当季所有真题示范（含Part1·2·3）
 https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episodes&vd_source=898f56f41de215bd5a1efa81f4edebe6&p=2
 ```
 
@@ -76,7 +76,7 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |Task|Description|Date|
 |----|-----------|----|
 |Week 1|||
-|Vocabulary|Chapter 5(5/5)|09/01|
+|Vocabulary + Speaking|Chapter 5(5/5) + BE 3|09/01|
 |Vocabulary + Reading|Chapter 1~5 + Exam analysis|09/02|
 |Vocabulary|Chapter 6|09/03|
 |Vocabulary + Reading|Chapter 7 + Exam analysis|09/04|
