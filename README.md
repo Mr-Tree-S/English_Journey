@@ -77,18 +77,18 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |----|-----------|----|
 |Week 1|||
 |Vocabulary + Speaking|Chapter 5(5/5) + BE 3|09/01|
-|Vocabulary + Reading|Chapter 1~5 + Exam analysis|09/02|
-|Vocabulary|Chapter 6|09/03|
-|Vocabulary + Reading|Chapter 7 + Exam analysis|09/04|
-|Vocabulary + Reading|Chapter 8 + Exam analysis|09/05|
-|Vocabulary + Listening|Chapter 9, Exam analysis|09/06|
-|Vocabulary + Listening|Chapter 10, Exam analysis|09/07|
+|Vocabulary|Chapter 1~5|09/02|
+|N/A|too busy to study|09/03|
+|Vocabulary|Chapter 6|09/04|
+|Vocabulary|Chapter 7|09/05|
+|Vocabulary + Reading|Chapter 8 + Exam analysis|09/06|
+|Vocabulary + Listening|Chapter 9 + Exam analysis|09/07|
 |Week 2|||
-|Vocabulary + Reading|Chapter 6~10 + Exam analysis|09/08|
-|Vocabulary|Chapter 11|09/09|
-|Vocabulary|Chapter 12|09/10|
-|Vocabulary|Chapter 13|09/11|
-|Vocabulary|Chapter 14|09/12|
-|Vocabulary|Chapter 15|09/13|
-|Vocabulary|Chapter 16|09/14|
+|Vocabulary|Chapter 10|09/09|
+|Vocabulary|Chapter 6~10|09/09|
+|Vocabulary|Chapter 11|09/10|
+|Vocabulary|Chapter 12|09/11|
+|Vocabulary|Chapter 13|09/12|
+|Vocabulary + Reading|Chapter 14|09/13 + Exam analysis|
+|Vocabulary + Listening|Chapter 15|09/14 + Exam analysis|
 |Week 3|||
