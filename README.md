@@ -80,15 +80,23 @@ https://www.bilibili.com/video/BV1k3t1zSErg?spm_id_from=333.788.videopod.episode
 |Vocabulary|Chapter 1~5|09/02|
 |N/A|too busy to study|09/03|
 |Vocabulary|Chapter 6|09/04|
-|Vocabulary|Chapter 7|09/05|
-|Vocabulary + Reading|Chapter 8 + Exam analysis|09/06|
-|Vocabulary + Listening|Chapter 9 + Exam analysis|09/07|
+|Vocabulary|too busy to study|09/05|
+|Vocabulary|No study today, just hang out|09/06|
+|Vocabulary|Chapter 7|09/07|
 |Week 2|||
-|Vocabulary|Chapter 10|09/09|
-|Vocabulary|Chapter 6~10|09/09|
-|Vocabulary|Chapter 11|09/10|
-|Vocabulary|Chapter 12|09/11|
-|Vocabulary|Chapter 13|09/12|
-|Vocabulary + Reading|Chapter 14|09/13 + Exam analysis|
-|Vocabulary + Listening|Chapter 15|09/14 + Exam analysis|
+|Vocabulary|too busy to study|09/09|
+|Vocabulary|too busy to study|09/09|
+|Vocabulary|too busy to study|09/10|
+|Vocabulary|too busy to study|09/11|
+|Vocabulary|Chapter 8|09/12|
+|Vocabulary + Reading|Chapter 9 + Exam analysis|09/13|
+|Vocabulary + Listening|Chapter 10 + Exam analysis|09/14|
 |Week 3|||
+|Vocabulary|Chapter 11|09/15|
+|Vocabulary|Chapter 12|09/16|
+|Vocabulary|Chapter 13|09/17|
+|Vocabulary|Chapter 14|09/18|
+|Vocabulary|Chapter 15|09/19|
+|Vocabulary + Reading|Chapter 16 + Exam analysis|09/20|
+|Vocabulary + Listening|Chapter 17 + Exam analysis|09/21|
+|Week 4|||
